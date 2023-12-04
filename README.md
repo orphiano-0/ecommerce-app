@@ -1,3 +1,3 @@
 ## E-Commerce App
 
-- [Project Link](https://bit.ly/fs-ecommerce)
+- [Candle Lyt](https://candle-lyt.vercel.app/)
