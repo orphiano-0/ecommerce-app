@@ -5,10 +5,10 @@ export const siteConfig = {
   description: "We Share your Passion for Fragrance",
   footer: [
     { name: "Home", href: "/" },
-    { name: "About", href: "#" },
-    { name: "Terms & Conditions", href: "#" },
-    { name: "Shipping & Return Policy", href: "#" },
-    { name: "Privacy Policy", href: "#" },
-    { name: "FAQ", href: "#" },
+    { name: "Github", href: "https://github.com/orphiano-0/ecommerce-app" },
+    { name: "Official Email", href: "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqHJXlRGvJgdMwHwSgNnNhxKgtLsmlHCbzclvPZVKQcqsTzJfndzsdqpMcGGCZTNxTnbq" },
+    // { name: "Shipping & Return Policy", href: "#" },
+    // { name: "Privacy Policy", href: "#" },
+    // { name: "FAQ", href: "#" },
   ],
 }
